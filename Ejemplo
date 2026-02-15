@@ -1,0 +1,9 @@
+# Ejercico 4
+edad_juan = int(input("¿Cual es la edad de Juan?}"))
+edad_alberto = (2/3) * edad_juan
+edad_ana = (4/3) * edad_juan
+edad_mama = edad_juan + edad_alberto + edad_ana
+print("la edad de juan es: ", edad_juan)
+print("la edad de alberto es:",edad_alberto)
+print("le edad de ana es ",edad_ana)
+print("la edad de mama es: ",edad_mama)
